@@ -1,0 +1,27 @@
+[submodule "godot-logger"]
+	path = godot-logger
+	url = https://github.com/gregkrsak/godot-logger.git
+[submodule "Godot4LocalizationEditor"]
+	path = Godot4LocalizationEditor
+	url = https://github.com/gregkrsak/Godot4LocalizationEditor.git
+[submodule "AsepriteHelper"]
+	path = AsepriteHelper
+	url = https://github.com/gregkrsak/AsepriteHelper.git
+[submodule "fmod_gd4"]
+	path = fmod_gd4
+	url = https://github.com/gregkrsak/fmod_gd4.git
+[submodule "godot-console"]
+	path = godot-console
+	url = https://github.com/gregkrsak/godot-console.git
+[submodule "dialogic"]
+	path = dialogic
+	url = https://github.com/gregkrsak/dialogic.git
+[submodule "godot4-file_editor"]
+	path = godot4-file_editor
+	url = https://github.com/gregkrsak/godot4-file_editor.git
+[submodule "Godot4InventoryEditor"]
+	path = Godot4InventoryEditor
+	url = https://github.com/gregkrsak/Godot4InventoryEditor.git
+[submodule "ThreadQueue.gd"]
+	path = ThreadQueue.gd
+	url = https://github.com/gregkrsak/ThreadQueue.gd.git
